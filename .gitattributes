@@ -1,24 +1,2 @@
-# Basic .gitattributes for a python repo.
-
-# Linux scripts
-# ============
-*.sh		text eol=lf
-
-# Source files
-# ============
-*.pxd		text
-*.py 		text
-*.py3 		text
-*.pyw 		text
-*.pyx  		text
-
-# Binary files
-# ============
-*.db		binary
-*.p 		binary
-*.pkl 		binary
-*.pyc 		binary
-*.pyd		binary
-*.pyo 		binary
-
-*.ipynb linguist-language=Python
+data/samsung_train.txt !text !filter !merge !diff
+data/samsung_test.txt !text !filter !merge !diff

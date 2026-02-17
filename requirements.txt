@@ -1,0 +1,14 @@
+eli5
+matplotlib
+numpy
+pandas
+plotly
+prophet
+pydotplus
+scikit-learn
+scipy
+seaborn
+statsmodels
+tqdm
+wordcloud
+xgboost

@@ -1,2 +1,0 @@
-data/samsung_train.txt !text !filter !merge !diff
-data/samsung_test.txt !text !filter !merge !diff
